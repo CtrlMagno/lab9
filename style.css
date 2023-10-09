@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.post-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+#post-text {
+    width: 300px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#post-button {
+    padding: 10px 20px;
+    background-color: #1877f2;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.post-container {
+    margin-top: 20px;
+}
+
+.post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
